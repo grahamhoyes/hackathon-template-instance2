@@ -1,5 +1,7 @@
 # IEEE Hackathon Website Template
 
+hi
+
 A website template for hackathons run by [IEEE University of Toronto Student Branch](https://ieee.utoronto.ca/).
 
 ## Requirements
